@@ -1,0 +1,3 @@
+[submodule "pyblitz2"]
+	path = pyblitz2
+	url = https://github.com/pojo/pyblitz2
